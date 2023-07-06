@@ -1,0 +1,2 @@
+This is my first attempt at using Git
+I'd be uploading these files to Github
